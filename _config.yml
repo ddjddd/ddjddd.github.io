@@ -22,15 +22,16 @@ title: Jinho's playground
 email: ddjddd@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my first blog
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+# twitter_username: 
 github_username:  ddjddd
+linkedin_username: 진호-최-6ba914194
+linkedin_userid: jinho.choi.999
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
