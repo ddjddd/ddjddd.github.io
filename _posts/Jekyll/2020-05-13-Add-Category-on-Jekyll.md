@@ -2,6 +2,7 @@
 layout: post
 title: Add category on Jekyll
 category: [Jekyll]
+authoor: Jinho Choi
 ---
 
 # 1. _layouts 폴더에 category.html 파일 생성
