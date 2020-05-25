@@ -18,4 +18,3 @@ default layout에 추가할 필요 있음
 
 
 # 4. 약간의 스타일 수정
-.index_ul, .index_li 추가
