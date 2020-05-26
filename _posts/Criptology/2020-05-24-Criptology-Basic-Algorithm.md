@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_dev
 title: 암호학 개요 - 기초 알고리즘
 subtitle: 기초 알고리즘에 대한 이해
 categories: Criptology

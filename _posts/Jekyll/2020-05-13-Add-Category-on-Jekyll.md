@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_dev
 title: Add category on Jekyll
 category: [Jekyll]
 authoor: Jinho Choi

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_dev
 title: 암호학 개요 - 기초용어
 subtitle: 기초 용어에 대한 설명
 categories: Criptology
