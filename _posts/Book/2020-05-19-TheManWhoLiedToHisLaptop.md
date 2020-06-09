@@ -2,12 +2,10 @@
 layout: post_book
 title: 관계의 본심
 subtitle: The Man Who Lied to His Laptop
+book_author: "클리포드 나스, 코리나 옌"
 author: Jinho Choi
 categories: [Book]
 ---
-
-## 제목: 관계의 본심  
-### 지은이: 클리포드 나스, 코리나 옌  
 
 1. 칭찬과 비판
     - 칭찬: 행동에 미치는 영향력이 낮음  

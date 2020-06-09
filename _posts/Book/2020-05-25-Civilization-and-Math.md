@@ -2,12 +2,10 @@
 layout: post_book
 title: 문명과 수학
 # subtitle: The Man Who Lied to His Laptop
+book_author: "EBS 문명과 수학 제작팀"
 author: Jinho Choi
 categories: [Book]
 ---
-
-## 제목: 문명과 수학  
-### 지은이: EBS 문명과 수학 제작팀
 
 > 진실은 복잡함이나 혼란 속에 있지 않고 언제나 단순함 속에 있다 - 아이작 뉴턴
 

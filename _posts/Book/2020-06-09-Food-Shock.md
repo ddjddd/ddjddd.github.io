@@ -2,12 +2,10 @@
 layout: post_book
 title: "식량쇼크: 값싼 식량의 시대는 끝났다"
 subtitle: ""
+book_author: "김화년"
 author: Jinho Choi
 categories: [Book]
 ---
-
-## 제목: 식량쇼크: 값싼 식량의 시대는 끝났다.
-### 지은이: 김화년
 
 #### 식량시장의 3不 트렌드: 불충분, 불확실, 불안전의 시대
     - 불충분: 식량의 양적 부족

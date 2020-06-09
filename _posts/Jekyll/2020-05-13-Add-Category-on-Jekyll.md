@@ -7,7 +7,7 @@ authoor: Jinho Choi
 
 # 1. _layouts 폴더에 category.html 파일 생성
 
-스크린샷 추가하기
+(스크린샷 추가하기)
 
 # 2. _includes 폴더의 index.html 파일 수정
 
