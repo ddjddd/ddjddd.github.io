@@ -10,7 +10,7 @@ authoor: Jinho Choi
 Computer의 존재 유무
 = 형태 그 자체는 환자와 전치의 반복으로 구성에는 크게 차이 없음.
 
-### 환자(Subtitution)
+### 환자(Subtitution)  
 1. Simple Subtitution  
 평문 한 문자를 암호문 한 문자로 1대1 대응(mapping) 시키는 것.  
 통계적 해석이 가능.  
