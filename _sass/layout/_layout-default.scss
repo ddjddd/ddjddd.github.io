@@ -56,3 +56,32 @@
     // border: solid red 1px;
     // background-color: brown;
 }
+
+
+/**
+ * Post card
+ */
+ .card-content {
+    border: solid $grey-color-light;
+    border-width: 2px 2px 2px 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px $grey-color-dark;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    // background-color:yellow;
+    .post-meta {
+        font-size: $small-font-size;
+        color: $grey-color;
+    }
+    
+    .post-link {
+        display: block;
+        @include relative-font-size(1.3);
+    }
+ }
+
+
+  
