@@ -21,6 +21,8 @@ authoor: Jinho Choi
 - Each pixel stores only index of Lookup table
 - Make reasonably accurate image
 - Little Compression
+- Color Lookup Table (LUTs)
+
 
 
 
