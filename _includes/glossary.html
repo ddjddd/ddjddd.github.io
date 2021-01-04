@@ -1,0 +1,13 @@
+<header class="site-glossary">
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+        {% if node.title != null %}
+            {% if node.layout == "glossary" %}
+            <div>
+                <a class="glossary-link {% if page.url == node.url %} active{% endif %}"
+                    href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            </div>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</header>

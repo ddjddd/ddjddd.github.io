@@ -57,14 +57,22 @@
     // background-color: brown;
 }
 
+.glossary-content {
+    width: 18%;
+    min-width: 150px;
+
+    float: right;
+    margin: $margin-unit;
+}
+
 /**
  * Post card
  */
  .card-content {
     border: solid $grey-color-light;
-    border-width: 2px 2px 2px 20px;
-    border-radius: 20px;
-    box-shadow: 2px 2px 10px $grey-color-dark;
+    border-width: 2px 2px 2px 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px $grey-color-dark;
 
     padding-left: 20px;
     padding-right: 20px;
